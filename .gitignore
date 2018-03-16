@@ -1,7 +1,7 @@
 apps/cache/
 apps/config/development/
 public/media/
-#apps/config/config.php
+apps/config/config.php
 
 .idea/
 
